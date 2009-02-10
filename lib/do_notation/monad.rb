@@ -1,3 +1,5 @@
+# Code for shift/reset in ruby found at
+# http://chneukirchen.org/blog/archive/2005/04/shift-reset-and-streams.html
 # Modeled after Andrzej Filinski's article "Representing
 # Monads" at POPL'94, and a Scheme implementation of it.
 # http://citeseer.ist.psu.edu/filinski94representing.html
